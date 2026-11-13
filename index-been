@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="mn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Game</title>
+<style>
+body {
+  background: #111;
+  color: white;
+  text-align: center;
+  font-family: Arial;
+  padding-top: 100px;
+}
+button {
+  padding: 15px 35px;
+  font-size: 22px;
+  background: orange;
+  border: 0;
+  border-radius: 10px;
+}
+</style>
+</head>
+<body>
+<h1>MY GAME</h1>
+<p>Тоглоом амжилттай ажиллаж байна!</p>
+<button onclick="alert('Тоглоом эхэллээ!')">PLAY</button>
+</body>
+</html>
